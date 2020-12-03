@@ -4,6 +4,10 @@
   border: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: #ecf0f1;
   font-family: sans-serif;
